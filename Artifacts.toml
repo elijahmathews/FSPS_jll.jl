@@ -1,0 +1,30 @@
+[[FSPS]]
+arch = "x86_64"
+git-tree-sha1 = "d7fdec4951dd752aa2b842c2edaeae9128534364"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FSPS.download]]
+    sha256 = "dca3863480c74eaeb0876c4771648bcd9da3461fb69922d4858392bf8fc8503c"
+    url = "https://github.com/elijahmathews/FSPS_jll.jl/releases/download/FSPS-v3.2.0+0/FSPS.v3.2.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[FSPS]]
+arch = "x86_64"
+git-tree-sha1 = "9bd96ed846e30f1e7c5bab1a07c7b2647071a218"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FSPS.download]]
+    sha256 = "1bd2970892218e19ec101b0010acc9bec13f12465bba2e26d93a5f87d2ec7d66"
+    url = "https://github.com/elijahmathews/FSPS_jll.jl/releases/download/FSPS-v3.2.0+0/FSPS.v3.2.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[FSPS]]
+arch = "x86_64"
+git-tree-sha1 = "6efc218815b3a0899ddf66959c0a3bb5d59c0c04"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FSPS.download]]
+    sha256 = "e443931f5debcf500c474f6c4803d2dbba51883c8783f5ea5e76fd205272f001"
+    url = "https://github.com/elijahmathews/FSPS_jll.jl/releases/download/FSPS-v3.2.0+0/FSPS.v3.2.0.x86_64-linux-gnu-libgfortran5.tar.gz"
